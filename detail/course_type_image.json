@@ -1,0 +1,50 @@
+[
+ {
+ "type": "词汇",
+ "name": "recommend_course_cihui"
+ },
+ {
+ "type": "对话",
+ "name": "recommend_course_duihua"
+ },
+ {
+ "type": "句型",
+ "name": "recommend_course_duihua"
+ },
+ {
+ "type": "口语",
+ "name": "recommend_course_kouyu"
+ },
+ {
+ "type": "听读",
+ "name": "recommend_course_tingdu"
+ },
+ {
+ "type": "听力测验",
+ "name": "recommend_course_tingliceyan"
+ },
+ {
+ "type": "文字测验",
+ "name": "recommend_course_ceyan"
+ },
+ {
+ "type": "综合测验",
+ "name": "recommend_course_ceyan"
+ },
+ {
+ "type": "写作",
+ "name": "recommend_course_xiezuo"
+ },
+ {
+ "type": "阅读",
+ "name": "recommend_course_yuedu"
+ },
+ {
+ "type": "听力",
+ "name": "recommend_course_tingli"
+ },
+ {
+ "type": "发音",
+ "name": "recommend_course_fayin"
+ }
+]

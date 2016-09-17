@@ -1,0 +1,816 @@
+{
+  "symbol": "-",
+  "relationMaterial": {
+    "publication": [
+      "新起点",
+      "PEP版",
+      "人教2002版",
+      "人教2003版",
+      "人教2004版",
+      "人教2005版",
+      "人教2012版",
+      "人教2013版",
+      "外研2004版",
+      "外研2005版",
+      "外研2012版",
+      "外研2013版",
+      "北师2004版",
+      "北师2005版",
+      "北师2013版",
+      "北师2014版",
+      "仁爱2012版",
+      "仁爱2013版",
+      "牛津上海版",
+      "牛津译林版",
+      "牛津粤教版"
+    ],
+    "新起点": [
+      "三上",
+      "三下",
+      "四上",
+      "五上",
+      "六上",
+      "六下"
+    ],
+    "PEP版": [
+      "三上",
+      "三下",
+      "四上",
+      "四下",
+      "五上",
+      "五下",
+      "六上",
+      "六下"
+    ],
+    "人教2002版": [
+      "七上",
+      "七下"
+    ],
+    "人教2003版": [
+      "八上",
+      "八下",
+      "九年级"
+    ],
+    "人教2004版": [
+      "必修1",
+      "必修2",
+      "必修3",
+      "必修4",
+      "必修5"
+    ],
+    "人教2005版": [
+      "选修6",
+      "选修7",
+      "选修8",
+      "选修9",
+      "选修10",
+      "选修11"
+    ],
+    "人教2012版": [
+      "三上",
+      "三下",
+      "七上",
+      "七下"
+    ],
+    "人教2013版": [
+      "四上",
+      "四下",
+      "八上",
+      "八下",
+      "九年级"
+    ],
+    "外研2004版": [
+      "七上",
+      "七下",
+      "八上",
+      "八下"
+    ],
+    "外研2005版": [
+      "九上",
+      "九下"
+    ],
+    "外研2012版": [
+      "七上",
+      "七下"
+    ],
+    "外研2013版": [
+      "八上",
+      "八下",
+      "九上"
+    ],
+    "北师2004版": [
+      "高中必修1",
+      "高中必修2",
+      "高中必修3",
+      "高中必修4"
+    ],
+    "北师2005版": [
+      "高中必修5"
+    ],
+    "北师2013版": [
+      "七上",
+      "七下"
+    ],
+    "北师2014版": [
+      "八上"
+    ],
+    "仁爱2012版": [
+      "七上",
+      "七下"
+    ],
+    "仁爱2013版": [
+      "八上"
+    ],
+    "牛津上海版": [
+      "六上",
+      "七上",
+      "八上"
+    ],
+    "牛津译林版": [
+      "七上",
+      "八上",
+      "九上"
+    ],
+    "牛津粤教版": [
+      "七上",
+      "八上"
+    ],
+    "新起点-三上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7"
+    ],
+    "新起点-三下": [
+      "Unit9",
+      "Unit10",
+      "Unit11",
+      "Unit13",
+      "Unit14",
+      "Unit15"
+    ],
+    "新起点-四上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit5",
+      "Unit6",
+      "Unit7"
+    ],
+    "新起点-五上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7"
+    ],
+    "新起点-六上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit5",
+      "Unit6",
+      "Unit7"
+    ],
+    "新起点-六下": [
+      "Unit9",
+      "Unit10",
+      "Unit11",
+      "Unit12",
+      "Unit13",
+      "Unit14",
+      "Unit15",
+      "Unit16"
+    ],
+    "PEP版-三上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "PEP版-三下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "PEP版-四上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "PEP版-四下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "PEP版-五上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "PEP版-五下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "PEP版-六上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7"
+    ],
+    "PEP版-六下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4"
+    ],
+    "人教2002版-七上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10",
+      "Unit11",
+      "Unit12",
+      "Review Unit1-6",
+      "Review Unit7-12"
+    ],
+    "人教2002版-七下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10",
+      "Unit11",
+      "Unit12"
+    ],
+    "人教2003版-八上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10",
+      "Unit11",
+      "Unit12",
+      "Review Unit1-6",
+      "Review Unit7-12"
+    ],
+    "人教2003版-八下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10",
+      "Review Unit1-5",
+      "Review Unit6-10"
+    ],
+    "人教2003版-九年级": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10",
+      "Unit11",
+      "Unit12",
+      "Unit13",
+      "Unit14",
+      "Unit15",
+      "Review Unit1-5",
+      "Review Unit6-10",
+      "Review Unit11-15"
+    ],
+    "人教2004版-必修1": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2004版-必修2": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2004版-必修3": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2004版-必修4": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2004版-必修5": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2005版-选修6": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2005版-选修7": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2005版-选修8": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2005版-选修9": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2005版-选修10": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2005版-选修11": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "人教2012版-三上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "人教2012版-三下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "人教2012版-七上": [
+      "starter unit1",
+      "starter unit2",
+      "starter unit3",
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9"
+    ],
+    "人教2012版-七下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10",
+      "Unit11",
+      "Unit12"
+    ],
+    "人教2013版-四上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "人教2013版-四下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "人教2013版-八上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10"
+    ],
+    "人教2013版-八下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10"
+    ],
+    "人教2013版-九年级": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8",
+      "Unit9",
+      "Unit10",
+      "Unit11",
+      "Unit12",
+      "Unit13",
+      "Unit14"
+    ],
+    "外研2004版-七上": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Revision Module A",
+      "Module 6",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10 & Revision Module B"
+    ],
+    "外研2004版-七下": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Module 6",
+      "Revision Module A",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10",
+      "Module 11",
+      "Module 12",
+      "Revision Module B"
+    ],
+    "外研2004版-八上": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Module 6",
+      "Revision Module A",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10",
+      "Module 11",
+      "Module 12 & Revision Module B"
+    ],
+    "外研2004版-八下": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Revision Module A",
+      "Module 6",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10",
+      "Revision Module B"
+    ],
+    "外研2005版-九上": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Module 6",
+      "Revision Module A",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10",
+      "Module 11",
+      "Module 12",
+      "Revision Module B"
+    ],
+    "外研2005版-九下": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5 & Revision Module A",
+      "Module 6",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10",
+      "Revision Module B"
+    ],
+    "外研2012版-七上": [
+      "starter module 1",
+      "starter module 2",
+      "starter module 3",
+      "starter module 4",
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Module 6",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10"
+    ],
+    "外研2012版-七下": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Module 6",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10",
+      "Module 11",
+      "Module 12",
+      "Revision Module B"
+    ],
+    "外研2013版-八上": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Module 6",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10",
+      "Module 11",
+      "Module 12"
+    ],
+    "外研2013版-八下": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Module 6",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10"
+    ],
+    "外研2013版-九上": [
+      "Module 1",
+      "Module 2",
+      "Module 3",
+      "Module 4",
+      "Module 5",
+      "Module 6",
+      "Module 7",
+      "Module 8",
+      "Module 9",
+      "Module 10",
+      "Module 11",
+      "Module 12"
+    ],
+    "北师2004版-高中必修1": [
+      "Learning to learn",
+      "Unit1",
+      "Unit2",
+      "Unit3"
+    ],
+    "北师2004版-高中必修2": [
+      "Learning to learn",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "北师2004版-高中必修3": [
+      "Learning to learn",
+      "Unit7",
+      "Unit8",
+      "Unit9"
+    ],
+    "北师2004版-高中必修4": [
+      "Learning to learn",
+      "Unit10",
+      "Unit11",
+      "Unit12"
+    ],
+    "北师2005版-高中必修5": [
+      "Learning to learn",
+      "Unit13",
+      "Unit14",
+      "Unit15"
+    ],
+    "北师2013版-七上": [
+      "getting ready A",
+      "getting ready B",
+      "getting ready C",
+      "getting ready D",
+      "getting ready E",
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4"
+    ],
+    "北师2013版-七下": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "北师2014版-八上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "仁爱2012版-七上": [
+      "Unit1",
+      "Review of Unit 1",
+      "Unit2",
+      "Unit3",
+      "Review of Unit 3",
+      "Unit4",
+      "Review of Units 3-4"
+    ],
+    "仁爱2012版-七下": [
+      "Unit5",
+      "Unit6",
+      "Unit7",
+      "Unit8"
+    ],
+    "仁爱2013版-八上": [
+      "Unit1",
+      "Review of Unit1",
+      "Unit2",
+      "Review of Units 1-2",
+      "Unit3",
+      "Unit4",
+      "Review of Units 3-4"
+    ],
+    "牛津上海版-六上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4"
+    ],
+    "牛津上海版-七上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "牛津上海版-八上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5"
+    ],
+    "牛津译林版-七上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "牛津译林版-八上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "牛津译林版-九上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit6"
+    ],
+    "牛津粤教版-七上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit1拓展",
+      "Unit2拓展",
+      "Unit3拓展",
+      "Unit4拓展"
+    ],
+    "牛津粤教版-八上": [
+      "Unit1",
+      "Unit2",
+      "Unit3",
+      "Unit4",
+      "Unit5",
+      "Unit1拓展",
+      "Unit2拓展",
+      "Unit3拓展",
+      "Unit4拓展"
+    ]
+  }
+}

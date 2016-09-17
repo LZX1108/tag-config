@@ -1,0 +1,23 @@
+{
+  "course_type": "tag/detail/course_type.json",
+  "difficulty": "tag/detail/difficulty.json",
+  "fit_age": "tag/detail/fit_age.json",
+  "fit_grade": "tag/detail/fit_grade.json",
+  "grammar": [
+    "knowledge/catalog1.json",
+    "knowledge/catalog2.json"
+  ],
+  "interest": "tag/detail/interest.json",
+  "knowledge": "tag/detail/knowledge.json",
+  "relation": "tag/detail/relation.json",
+  "relation_material": "tag/detail/relation_material.json",
+  "subject_function": "tag/detail/subject_function.json",
+  "subject_topic": "tag/detail/subject_topic.json",
+  "text_theme": "tag/detail/text_theme.json",
+  "text_type": "tag/detail/text_type.json",
+  "elegant": "tag/detail/elegant.json",
+  "recommend": "tag/detail/recommend.json",
+  "apply_type": "tag/detail/apply_type.json",
+  "stickie": "tag/detail/stickie.json",
+  "license": "tag/detail/license.json"
+}
