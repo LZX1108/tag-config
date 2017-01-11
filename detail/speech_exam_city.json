@@ -1,7 +1,11 @@
 [
   {
-    "id": "beijing",
-    "name": "北京"
+    "id": "beijing_middle",
+    "name": "北京(初中)"
+  },
+  {
+    "id": "beijing_primary",
+    "name": "北京(小学)"
   },
   {
     "id": "shanghai",
